@@ -14,9 +14,7 @@ console.log("La longitud de la variable cadena es: "+cadena.length)
 const booleando=true;
 console.log(booleando)
 console.log(typeof booleando)
-
 // -------------------
-
 // CREAR UNA CALCULADORA
 const numero1 = Number(prompt("Ingrese primer número"));
 const numero2 = Number(prompt("Ingrese segundo número"));
